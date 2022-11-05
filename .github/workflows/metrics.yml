@@ -14,10 +14,13 @@ jobs:
     steps:
       - uses: dcai/metrics@master
         with:
+          config_timezone: Australia/Sydney
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: Australia/Sydney
+          plugin_achievements: yes
+          plugin_lines: yes
