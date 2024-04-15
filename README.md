@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m from Australia
+- ⚡ I use Javascript/Typescript, Python, Lua, Go
+- 🌱 My human lanuages: Chinese and English
+
+
 ![Metrics](/github-metrics.svg)
 
 
