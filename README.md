@@ -2,8 +2,6 @@
 
 - 🔭 I’m from Australia
 - ⚡ I use Javascript/Typescript, Python, Lua, Go
-- 🌱 My human lanuages: Chinese and English
-
 
 <!--
 **dcai/dcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
